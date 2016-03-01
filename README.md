@@ -1,0 +1,2 @@
+# CubicSolverBeta
+Graphs cubic equations.
